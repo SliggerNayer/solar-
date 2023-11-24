@@ -64,8 +64,9 @@ def parse_star_parameters(line, star):
 
 
 
-
-
+def procrastinate(obj):
+    obj = 'nothing'
+    return = None
 
 
 def write_space_objects_data_to_file(output_filename, space_objects):
