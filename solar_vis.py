@@ -5,6 +5,17 @@
 Нигде, кроме этого модуля, не используются экранные координаты объектов.
 Функции, создающие гaрафические объекты и перемещающие их на экране, принимают физические координаты
 """
+#more comments
+#more comments
+#more comments
+#more comments
+#more comments
+#more comments
+#more comments
+
+
+#more comments
+#more comments
 
 header_font = "Arial-16"
 """Шрифт в заголовке"""
